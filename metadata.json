@@ -1,0 +1,7 @@
+{
+  "name": "OmniFlow: Influencer & Digital Data Suite",
+  "description": "Unified platform for influencer campaign lifecycle, deliverable tracking, payment disbursements, and digital content studio management with Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
